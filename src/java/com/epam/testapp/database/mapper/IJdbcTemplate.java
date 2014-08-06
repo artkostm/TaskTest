@@ -16,11 +16,11 @@ import java.sql.SQLException;
 public interface IJdbcTemplate {
     
     public boolean queryForCUD(String sql, Object...param)
-            throws SQLException;
+            throws JdbcTemplateException;
     
     public Object queryForObject(String sql, RowMapper rm, Object...param)
-            throws SQLException;
+            throws JdbcTemplateException;
     
     public Object simpleQuery(String sql, RowMapper rm) 
-            throws SQLException;
+            throws JdbcTemplateException;
 }

@@ -9,6 +9,7 @@ package com.epam.testapp.database.mapper;
 import com.epam.testapp.database.pool.ConnectionWrapper;
 import com.epam.testapp.database.pool.DatabaseException;
 import com.epam.testapp.database.pool.IConnectionPool;
+import com.epam.testapp.util.DBUtil;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -24,11 +25,15 @@ public class JdbcTemplate implements IJdbcTemplate{
     public JdbcTemplate() {
     }
     
-    IConnectionPool pool;
+    public JdbcTemplate(IConnectionPool pool) {
+        this.pool = pool;
+    }
+    
+    private IConnectionPool pool;
     
     @Override
     public boolean queryForCUD(String sql, Object...param)
-            throws SQLException{
+            throws JdbcTemplateException{
         ConnectionWrapper con = null; 
         PreparedStatement ps = null;
         try {
@@ -36,14 +41,17 @@ public class JdbcTemplate implements IJdbcTemplate{
             con.setAutoCommit(false);
             ps = con.prepareStatement(sql);
             for(int i = 1; i <= param.length; i++){
-                ps.setObject(i, param[i]);
+                ps.setObject(i, param[i-1]);
+                
             }
             ps.executeUpdate();
             con.commit();
             con.setAutoCommit(true);
             return true;
         } catch (DatabaseException ex) {
-            return false;
+            throw new JdbcTemplateException();
+        }catch (SQLException ex) {
+            throw new JdbcTemplateException("", ex);
         }finally{
             forFinally(null, ps, null, con);
         }
@@ -51,7 +59,7 @@ public class JdbcTemplate implements IJdbcTemplate{
     
     @Override
     public Object queryForObject(String sql, RowMapper rm, Object...param)
-            throws SQLException{
+            throws JdbcTemplateException{
         ConnectionWrapper con = null;
         PreparedStatement ps = null;
         ResultSet rs = null;
@@ -59,12 +67,14 @@ public class JdbcTemplate implements IJdbcTemplate{
             con = pool.takeConnection();
             ps = con.prepareStatement(sql);
             for(int i = 1; i <= param.length; i++){
-                ps.setObject(i, param[i]);
+                ps.setObject(i, param[i-1]);
             }
             rs = ps.executeQuery();
             return rm.mapRow(rs);
         } catch (DatabaseException ex) {
-            return null;
+            throw new JdbcTemplateException();
+        }catch (SQLException ex) {
+            throw new JdbcTemplateException("", ex);
         }finally{
             forFinally(null, ps, rs, con);
         }
@@ -72,7 +82,7 @@ public class JdbcTemplate implements IJdbcTemplate{
     
     @Override
     public Object simpleQuery(String sql, RowMapper rm) 
-            throws SQLException{
+            throws JdbcTemplateException{
         ConnectionWrapper con = null;
         Statement s = null;
         ResultSet rs = null;
@@ -82,7 +92,9 @@ public class JdbcTemplate implements IJdbcTemplate{
             rs = s.executeQuery(sql);
             return rm.mapRow(rs);
         } catch (DatabaseException ex) {
-            return null;
+            throw new JdbcTemplateException();
+        }catch (SQLException ex) {
+            throw new JdbcTemplateException();
         }finally{
             forFinally(s, null, rs, con);
         }
@@ -91,21 +103,9 @@ public class JdbcTemplate implements IJdbcTemplate{
     private void forFinally(Statement s, 
             PreparedStatement ps, ResultSet rs, 
             ConnectionWrapper con){
-        try{
-            if(rs != null){
-                rs.close();
-            }
-            if(s != null){
-                s.close();
-            }
-            if(ps != null){
-                ps.close();
-            }
-            if(con != null){
-                pool.releaseConnection(con);
-            }
-        }catch(SQLException ex){
-            //Logger.getLogger(DBConfig.LOGGER_NAME).error(ex, ex);//////////////////////
+        DBUtil.close(s, ps, rs);
+        if(con != null){
+            pool.releaseConnection(con);
         }
     }
 }

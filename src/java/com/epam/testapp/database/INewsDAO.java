@@ -6,8 +6,8 @@
 
 package com.epam.testapp.database;
 
+import com.epam.testapp.database.mapper.JdbcTemplateException;
 import com.epam.testapp.model.News;
-import java.sql.SQLException;
 import java.util.List;
 
 /**
@@ -16,13 +16,13 @@ import java.util.List;
  */
 public interface INewsDAO {
     
-    public List<News> getList()  throws SQLException;
+    public List<News> getList()  throws JdbcTemplateException;
     
-    public boolean save(News news) throws SQLException;
+    public boolean save(News news) throws JdbcTemplateException;
     
-    public boolean remowe(News news) throws SQLException;
+    public boolean remowe(News news) throws JdbcTemplateException;
     
-    public News fetchById(int id) throws SQLException;
+    public News fetchById(int id) throws JdbcTemplateException;
     
-    public boolean add(News news) throws SQLException;
+    public boolean add(News news) throws JdbcTemplateException;
 }

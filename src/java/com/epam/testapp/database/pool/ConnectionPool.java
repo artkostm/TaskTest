@@ -29,7 +29,7 @@ public final class ConnectionPool implements IConnectionPool{
     
     private String password;
     
-    private int poolSize = 20;
+    private int poolSize = 10;
     
     private boolean init;
     

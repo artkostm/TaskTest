@@ -6,6 +6,11 @@
 
 package com.epam.testapp.util;
 
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
 /**
  *
  * @author Artsiom_Chuiko
@@ -31,4 +36,20 @@ public class DBUtil {
                   .getBundle("com/epam/testapp/properties/database")
                   .getString("database.password");
             
+    public static void close(Statement s, 
+            PreparedStatement ps, ResultSet rs){
+        try{
+            if(rs != null){
+                rs.close();
+            }
+            if(s != null){
+                s.close();
+            }
+            if(ps != null){
+                ps.close();
+            }
+        }catch(SQLException ex){
+            //Logger.getLogger(DBConfig.LOGGER_NAME).error(ex, ex);//////////////////////
+        }
+    }
 }

@@ -26,7 +26,9 @@ public final class ConnectionWrapper {
 	
 	public PreparedStatement prepareStatement(String statement) 
                 throws SQLException {
-		return connection.prepareStatement(statement);		
+		return connection.prepareStatement(statement, 
+                        ResultSet.TYPE_SCROLL_SENSITIVE, 
+                        ResultSet.CONCUR_UPDATABLE);		
 	}	
 	
 	public PreparedStatement prepareStatement(String statement, 
