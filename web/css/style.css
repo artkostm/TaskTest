@@ -14,11 +14,14 @@ body{
     background-color: white;
     margin: 0 auto;
     overflow:hidden;
-    position: fixed;
+    position: relative;
     top:9%;
     right:0;
+    float: right;
     width: 77%;
     padding: 20px;
+    margin-bottom: 5px;
+    margin-right: 5px;
     height:81%;
     border: solid lightgray;
     border-width: 2px;
@@ -27,11 +30,12 @@ body{
     background-color: white;
     margin: 0;
     overflow:hidden;
-    position: fixed;
+    position: relative;
+    float:top;
     top:0;
     left:0;
     height: 3%;
-    padding: 20px;
+    padding-top: 20px;
     width:100%;
     border: solid black;
     border-width: 2px;
@@ -40,10 +44,11 @@ body{
     background-color: white;
     margin: 0 auto;
     overflow:hidden;
-    position: fixed;
+    position: relative;
+    float: bottom;
     bottom:0;
     left:0;
-    padding: 10px;
+    padding-top: 10px;
     width:100%; 
     border: solid black;
     border-width: 2px;
@@ -54,8 +59,8 @@ body{
     margin: 0 auto;
     overflow:hidden;
     position: fixed;
-    top:9%;
-    left:5px;
+    top:10%;
+    left:15px;
     padding: 20px;
     width: 15%;
     height:15%;
@@ -65,12 +70,18 @@ body{
 .content{
     border: solid black;
     border-width: 2px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    overflow:hidden;
+    width: 100%;
+    padding-top: 10px;
 }
 
 #label{
     color: #0066ff;
     font-size: 30px;
     padding: 10px;
+    padding-left: 20px;
 }
 .lang{
     float: right;
