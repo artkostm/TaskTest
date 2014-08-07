@@ -52,5 +52,29 @@
     et incolumes custodire digneris. Per Christum Dominum nostrum. Amen. Ab 
     insidiis diaboli, libera nos, Domine. Ut Ecclesiam tuam secura tibi facias 
     libertate servire, te rogamus, audi nos. Ut inimicos sanctae Ecclesiae 
-    humiliare digneris, te rogamus audi nos. 
+    humiliare digneris, te rogamus audi nos. Da locum Christo, in quo nihil invenisti de 
+    operibus tuis; da locum Ecclesiae uni, sanctae, catholicae, et apostolicae, 
+    quam Christus ipse acquisivit sanguine suo. Humiliare sub potenti manu Dei; 
+    contremisce et effuge, invocato a nobis sancto et terribili nomine Jesu, 
+    quem inferi tremunt, cui Virtutes caelorum et Potestates et Dominationes 
+    subjectae sunt; quem Cherubim et Seraphim indefessis vocibus laudant, 
+    dicentes: Sanctus, Sanctus, Sanctus Dominus Deus Sabaoth. V. Domine, exaudi 
+    orationem meam. R. Et clamor meus ad te veniat. [si fuerit saltem diaconus 
+    subjungat V. Dominus vobiscum. R. Et cum spiritu tuo.] Oremus. Deus coeli, 
+    Deus terrae, Deus Angelorum, Deus Archangelorum, Deus Patriarcharum, Deus 
+    Prophetarum, Deus Apostolorum, Deus Martyrum, Deus Confessorum, Deus 
+    Virginum, Deus qui potestatem habes donare vitam post mortem, requiem 
+    post laborem; quia non est Deus praeter te, nec esse potest nisi tu 
+    creator omnium visibilium et invisibilium, cujus regni non erit finis: 
+    humiIiter majestati gloriae tuae supplicamus, ut ab omni infernalium 
+    spirituum potestate, laqueo, deceptione et nequitia nos potenter liberare, 
+    et incolumes custodire digneris. Per Christum Dominum nostrum. Amen. Ab 
+    insidiis diaboli, libera nos, Domine. Ut Ecclesiam tuam secura tibi facias 
+    libertate servire, te rogamus, audi nos. Ut inimicos sanctae Ecclesiae 
+    humiliare digneris, te rogamus audi nos.Da locum Christo, in quo nihil invenisti de 
+    operibus tuis; da locum Ecclesiae uni, sanctae, catholicae, et apostolicae, 
+    quam Christus ipse acquisivit sanguine suo. Humiliare sub potenti manu Dei; 
+    contremisce et effuge, invocato a nobis sancto et terribili nomine Jesu, 
+    quem inferi tremunt, cui Virtutes caelorum et Potestates et Dominationes 
+    subjectae sunt;  
 </div>
