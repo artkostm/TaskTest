@@ -8,6 +8,7 @@ package com.epam.testapp.presentation.action;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import org.apache.log4j.Logger;
 
 import org.apache.struts.actions.MappingDispatchAction;
 import org.apache.struts.action.ActionForm;
@@ -93,6 +94,13 @@ public class NewsAction extends MappingDispatchAction {
             HttpServletRequest request, HttpServletResponse response)
             throws Exception {
         
+        return mapping.findForward(SUCCESS);
+    }
+    
+    public ActionForward test(ActionMapping mapping, ActionForm form,
+            HttpServletRequest request, HttpServletResponse response)
+            throws Exception {
+        Logger.getLogger("com.epam.testapp.web").info("TEST");
         return mapping.findForward(SUCCESS);
     }
 }

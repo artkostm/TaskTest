@@ -1,0 +1,842 @@
+ INFO 2014-08-07 12:33:41,498 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_INIT
+ INFO 2014-08-07 12:33:41,538 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:33:41,908 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,027 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_INIT
+ INFO 2014-08-07 12:47:52,057 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,747 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,747 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,867 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,867 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,887 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,887 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,887 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,887 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,897 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,897 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,897 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,897 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,897 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,897 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,907 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,907 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,907 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,907 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,907 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,907 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,907 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,907 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,917 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,917 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,917 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,917 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,917 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,917 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,927 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,927 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,927 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,927 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,927 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,927 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,927 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,927 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,937 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,937 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,937 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,937 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,937 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,937 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,947 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,947 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,967 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,967 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,967 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,967 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,967 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,967 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,968 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,968 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,968 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,968 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,968 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,968 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,968 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,968 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,974 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,974 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,977 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,977 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,981 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,981 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,983 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,983 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,987 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,987 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:52,989 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:52,989 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,009 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,009 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,009 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,009 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,009 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,009 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,019 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,019 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,019 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,019 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,029 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,029 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,029 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,029 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,029 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,029 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,039 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,039 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,039 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,039 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,049 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,049 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,049 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,049 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,049 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,049 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,059 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,059 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,059 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,059 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,059 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,059 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,069 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,069 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,069 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,069 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,069 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,069 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,079 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,079 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,079 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,079 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,079 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,079 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,089 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,089 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,089 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,089 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,089 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,089 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,099 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,099 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,099 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,099 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,099 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,109 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,109 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,109 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,119 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,119 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,119 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,119 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,119 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,119 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,119 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,119 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,119 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,129 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,139 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,139 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,139 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,139 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,139 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,139 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,149 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,149 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,149 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,149 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,149 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,149 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,149 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,149 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,159 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,159 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,159 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,159 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,169 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,169 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,169 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,169 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,169 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,169 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,169 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,179 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,179 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,179 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,189 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,189 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,189 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,189 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,189 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,189 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,199 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,199 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,199 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,199 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,199 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,199 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,209 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,209 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,209 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,209 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,209 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,209 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,209 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,209 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,219 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,219 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,219 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,219 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,229 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,229 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,229 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,229 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,229 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,229 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,229 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,229 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,239 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,239 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,239 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,239 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,249 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,249 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,259 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,259 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,259 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,259 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,269 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,269 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,269 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,269 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,269 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,269 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,279 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,279 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,279 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,279 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,279 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,279 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,279 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,279 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,289 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,289 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,299 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,299 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,299 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,299 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,299 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,299 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,309 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,309 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,309 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,309 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,319 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,319 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,329 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,329 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,329 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,329 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,339 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,339 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,339 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,339 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,349 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,349 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,349 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,349 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,359 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,359 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,359 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,359 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,359 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,359 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,369 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,369 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,369 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,369 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,379 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,379 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,379 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,379 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,379 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,379 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,379 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,379 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,399 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,399 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,399 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,399 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,409 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,409 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,409 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,409 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,409 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,409 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,419 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,419 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,419 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,419 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,419 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,419 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,429 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,429 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,429 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,429 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,429 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,429 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,439 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,439 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,439 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,439 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,439 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,439 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,449 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,449 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,459 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,459 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,459 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,459 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,469 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,469 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,469 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,469 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,473 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,474 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,493 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,493 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,495 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,495 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,500 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,501 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,531 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,531 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,541 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,541 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,541 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,541 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,551 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,551 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,551 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,551 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,551 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,551 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,571 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,571 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,621 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,621 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,621 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,621 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,621 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,621 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,631 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,631 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,631 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,631 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,631 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,631 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,641 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,641 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,641 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,641 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,651 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,651 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,651 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,651 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,661 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,661 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,661 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,661 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,661 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,661 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,671 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,671 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,671 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,671 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,681 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,681 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,681 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,681 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,681 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,681 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,691 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,691 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,691 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,691 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,701 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,701 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,701 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,701 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,711 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,711 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,711 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,711 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,711 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,711 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,721 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,721 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,721 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,721 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,721 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,721 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,731 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,731 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,751 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,751 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,761 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,761 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,761 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,761 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,761 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,761 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,761 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,761 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,771 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,771 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,771 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 12:47:53,771 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 12:47:53,771 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 13:02:45,020 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_INIT
+ INFO 2014-08-07 13:02:45,052 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 13:02:45,239 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 13:03:44,388 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_INIT
+ INFO 2014-08-07 13:03:44,428 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 13:03:44,558 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 13:04:35,082 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_INIT
+ INFO 2014-08-07 13:04:35,118 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 13:04:35,267 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 13:04:35,267 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 13:04:35,363 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 13:04:53,408 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_INIT
+ INFO 2014-08-07 13:04:53,439 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 13:04:53,601 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN
+ INFO 2014-08-07 13:05:30,611 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_INIT
+ INFO 2014-08-07 13:05:30,646 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_TAKE_CONN
+ INFO 2014-08-07 13:05:30,827 [main][] com.epam.testapp.dao : 
+SUCCESS_POOL_RELEASE_CONN

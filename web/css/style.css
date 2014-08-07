@@ -1,0 +1,93 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 7, 2014, 1:15:54 PM
+    Author     : Artsiom_Chuiko
+*/
+body{
+    font-family: sans-serif;
+}
+#body{
+    background-color: white;
+    margin: 0 auto;
+    overflow:hidden;
+    position: fixed;
+    top:9%;
+    right:0;
+    width: 77%;
+    padding: 20px;
+    height:81%;
+    border: solid lightgray;
+    border-width: 2px;
+}
+#header{
+    background-color: white;
+    margin: 0;
+    overflow:hidden;
+    position: fixed;
+    top:0;
+    left:0;
+    height: 3%;
+    padding: 20px;
+    width:100%;
+    border: solid black;
+    border-width: 2px;
+}
+#footer{
+    background-color: white;
+    margin: 0 auto;
+    overflow:hidden;
+    position: fixed;
+    bottom:0;
+    left:0;
+    padding: 10px;
+    width:100%; 
+    border: solid black;
+    border-width: 2px;
+}
+
+#menu{
+    background-color: white;
+    margin: 0 auto;
+    overflow:hidden;
+    position: fixed;
+    top:9%;
+    left:5px;
+    padding: 20px;
+    width: 15%;
+    height:15%;
+    background-color: lightgray;
+}
+
+.content{
+    border: solid black;
+    border-width: 2px;
+}
+
+#label{
+    color: #0066ff;
+    font-size: 30px;
+    padding: 10px;
+}
+.lang{
+    float: right;
+    margin-right: 40px;
+}
+#news{
+    color: white;
+    background-color: #666666;
+}
+ul{
+    background-color: white;
+    float: right;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+li{
+    list-style-type: circle;
+    list-style-image: url(../img/li.png);
+}

@@ -12,6 +12,7 @@ import java.sql.SQLException;
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.locks.ReentrantLock;
+import org.apache.log4j.Logger;
 
 /**
  *
@@ -22,6 +23,9 @@ public final class ConnectionPool implements IConnectionPool{
     private static ConnectionPool instance;
     
     private static final ReentrantLock lock = new ReentrantLock();
+    
+    private static final Logger logger 
+            = Logger.getLogger("com.epam.testapp.dao");
     
     private String url;
     
@@ -109,7 +113,7 @@ public final class ConnectionPool implements IConnectionPool{
                 freeConnections.add(connection);
             }
             init = true;
-//            logger.info(LoggingMessageConstants.SUCCESS_POOL_INIT);
+            logger.info(LoggingMessageConstants.SUCCESS_POOL_INIT);
         } catch (SQLException e) {
             throw new DatabaseException(LoggingMessageConstants.POOL_INIT_ERROR, e);
         } catch (ClassNotFoundException ex) {
@@ -123,7 +127,7 @@ public final class ConnectionPool implements IConnectionPool{
         try {
             connection = freeConnections.take();
             workingConnections.put(connection);
-//            logger.info(LoggingMessageConstants.SUCCESS_POOL_TAKE_CONN);
+            logger.info(LoggingMessageConstants.SUCCESS_POOL_TAKE_CONN);
         } catch (InterruptedException e) {
             throw new DatabaseException(LoggingMessageConstants.POOL_CONNECT_ERROR, e);
         }
@@ -135,9 +139,9 @@ public final class ConnectionPool implements IConnectionPool{
         try {
             workingConnections.remove(connection);
             freeConnections.put(connection);			
-//            logger.info(LoggingMessageConstants.SUCCESS_POOL_RELEASE_CONN);
+            logger.info(LoggingMessageConstants.SUCCESS_POOL_RELEASE_CONN);
         } catch (InterruptedException e) {
-//            logger.error(e.getMessage());
+            logger.error(e.getMessage());
         }
     }
     
@@ -157,9 +161,9 @@ public final class ConnectionPool implements IConnectionPool{
             try {
                 instance.clearConnectionQueue();
                 instance = null;
-//                logger.info(LoggingMessageConstants.SUCCESS_POOL_CLOSE);
+                logger.info(LoggingMessageConstants.SUCCESS_POOL_CLOSE);
             } catch (SQLException e) {
-//                logger.error(e.getMessage());
+                logger.error(e.getMessage());
             }
         }
         init = false;

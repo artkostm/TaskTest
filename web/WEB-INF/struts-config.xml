@@ -47,6 +47,10 @@
                 type="com.epam.testapp.presentation.action.NewsAction"
                 parameter="setNewsDao" />
         
+        <action path="/test" 
+                type="com.epam.testapp.presentation.action.NewsAction"
+                parameter="test" />
+        
         <action path="/Welcome" 
                 forward="/welcomeStruts.jsp"/>
     </action-mappings>
